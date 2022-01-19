@@ -18,7 +18,10 @@ public class Ekstrakurikuler extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ekstrakurikuler);
 
-        cvPaskibra = (CardView) findViewById(R.id.Paskibra);
+        cvOsis = findViewById(R.id.Osis);
+        cvPaskibra = findViewById(R.id.Paskibra);
+        cvPramuka = findViewById(R.id.Pramuka);
+
         cvPaskibra.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -27,7 +30,6 @@ public class Ekstrakurikuler extends AppCompatActivity {
             }
         });
 
-        cvPramuka = (CardView) findViewById(R.id.Pramuka);
         cvPramuka.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -36,7 +38,6 @@ public class Ekstrakurikuler extends AppCompatActivity {
             }
         });
 
-        cvOsis = (CardView) findViewById(R.id.Osis);
         cvOsis.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -44,7 +45,5 @@ public class Ekstrakurikuler extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-
-        getSupportActionBar().hide();
     }
 }
