@@ -12,6 +12,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Smpn42">
         <activity
+            android:name=".PaskibraActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PramukaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OsisActivity"
+            android:exported="false" />
+        <activity
             android:name=".SpiritspadaActivity"
             android:exported="false" />
         <activity

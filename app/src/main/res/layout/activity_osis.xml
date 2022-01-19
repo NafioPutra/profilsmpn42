@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OsisActivity"
+    android:orientation="vertical"
+    android:background="@drawable/bg_sekolah">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#CCFFFFFF">
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="350dp"
+            android:layout_height="200dp"
+            app:cardCornerRadius="25dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp">
+
+            <ImageView
+                android:layout_width="350dp"
+                android:layout_height="300dp"
+                android:layout_gravity="center"
+                android:src="@drawable/osisbg"/>
+
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textAlignment="center"
+            android:text="Pengurus OSIS"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="30dp"
+            android:text="Organisasi Siswa Intra Sekolah (disebut OSIS) adalah Pusat Kegiatan Pembinaan Kesiswaan disekolah untuk pengembangan minat, bakat serta potensi Siswa. OSIS adalah sebuah Lembaga Resmi satu-satunya disekolah yang diakui oleh Kementerian Pendidikan Nasional Republik Indonesia sejak 21 Maret 1970. Lembaga ini tidak ada pada tingkat Sekolah Dasar (SD/ MI), Sekolah Menengah yaitu Sekolah Menengah Pertama (SMP/MTS) dan Sekolah Menengah Atas (SMA/SMK/MA/SLB) sederajat se- Indonesia."
+            android:textColor="@color/black"
+            android:textSize="22sp"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>
