@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/acer/AndroidStudioProjects/smpn42/app/src/main/res/drawable/setengah_lingkaran.xml" value="1.3428571428571427" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/smpn42/app/src/main/res/font/font.xml" value="0.34814814814814815" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/smpn42/app/src/main/res/layout/activity_artshow.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/smpn42/app/src/main/res/layout/activity_berita.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/smpn42/app/src/main/res/layout/activity_ekstrakurikuler.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/smpn42/app/src/main/res/layout/activity_fasilitas.xml" value="0.275974025974026" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/smpn42/app/src/main/res/layout/activity_galery.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/smpn42/app/src/main/res/layout/activity_gurudanstaff.xml" value="0.22995564653701808" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/smpn42/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/smpn42/app/src/main/res/layout/activity_perjusa.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/smpn42/app/src/main/res/layout/activity_profile.xml" value="0.33" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/smpn42/app/src/main/res/layout/activity_senam.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/smpn42/app/src/main/res/layout/activity_spiritspada.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/smpn42/app/src/main/res/layout/activity_upacara.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/smpn42/app/src/main/res/layout/activity_welcome_screen.xml" value="0.35104166666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
